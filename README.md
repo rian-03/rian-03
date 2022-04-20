@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rian-03
-- 👀 I’m interested in work experience
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning C, Python, JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hmw rianantony7352@gmail.com
